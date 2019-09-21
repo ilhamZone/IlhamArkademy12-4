@@ -14,3 +14,11 @@ Langkah-langkah Penggunaan:<br/>
 6. Buka browser, kemudian buka localhost<br/>
 <br/>
 Screnshoot No 6 <br/>
+![List](https://user-images.githubusercontent.com/45902568/65375710-c77af100-dcc2-11e9-9079-a01a2678f567.PNG)
+![ADD](https://user-images.githubusercontent.com/45902568/65375716-ce096880-dcc2-11e9-8eb1-32957f51eacf.png)
+![ADD SUCCESS](https://user-images.githubusercontent.com/45902568/65375722-d3ff4980-dcc2-11e9-8700-1b4f14b11876.png)
+![Edit](https://user-images.githubusercontent.com/45902568/65375740-0315bb00-dcc3-11e9-925a-b95f70659806.png)
+![Edit Success](https://user-images.githubusercontent.com/45902568/65375747-0b6df600-dcc3-11e9-9234-5d13cc4d28a8.png)
+![Confirm Delete](https://user-images.githubusercontent.com/45902568/65375773-4d973780-dcc3-11e9-9ca7-e632b65ceda7.png)
+![Delete Success](https://user-images.githubusercontent.com/45902568/65375759-25a7d400-dcc3-11e9-9f8f-f32821365185.png)
+
