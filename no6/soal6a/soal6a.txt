@@ -1,0 +1,14 @@
+QUERY MENAMPILKAN NAMA, WORK DAN SALARY
+
+============================================================================================================
+
+SELECT
+    `nama`.`nama`
+    , `work`.`namaw`
+    , `salary`.`salary`
+FROM
+    `nama`
+    INNER JOIN `work` 
+        ON (`nama`.`id_work` = `work`.`id_work`)
+    INNER JOIN `salary` 
+        ON (`nama`.`id_salary` = `salary`.`id_salary`) AND (`work`.`id_salary` = `salary`.`id_salary`);
